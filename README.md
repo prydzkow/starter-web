@@ -13,3 +13,6 @@ We are showin examplz of the uzeg
 ## Deployment
 
 Deployment is the funny part
+
+### Copyright
+Git Training Copyright
