@@ -19,3 +19,7 @@ Git Training Copyright
 
 ### Good bye
 Good by Berlin!
+
+
+### FINAL NOTE
+Finally
