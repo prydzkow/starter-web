@@ -16,3 +16,6 @@ Deployment is the funny part
 
 ### Copyright
 Git Training Copyright
+
+### Good bye
+Good by Berlin!
